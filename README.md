@@ -1,14 +1,21 @@
-Requirements/
+Requirements
+
 Before you begin, ensure you have the following installed:
 
 Python 3.12
+
 Django 5.1+
+
 Django REST Framework 3.15+
 
 Setup
+
 1. Clone the repository
+
 Clone the repository to your local machine:
+
 git clone https://github.com/vladikD/SpyCatAgency.git
+
 cd SpyCatAgency
 
 2. Set up a virtual environment
